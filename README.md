@@ -4,7 +4,7 @@ springmvc+spring+mybatis整合demo，所有配置文件均放在源文件config�
 
 编码格式：utf-8
 
-访问路径：http://localhost:8080/ssm_demo/user/get.action?id=1
+访问路径：http://localhost:8080/ssm/user/get.action?id=1
 
 数据库修改：config/db.properties
 sql文件在config路径下：user.sql
